@@ -6,10 +6,10 @@ setup(
     packages=[],
     version='0.1.0',
     description='Cookiecutter template for a Python package',
-    author='Audrey Roy Greenfeld',
+    author='Krishna Kishore Balam',
     license='BSD',
-    author_email='aroy@alum.mit.edu',
-    url='https://github.com/audreyr/cookiecutter-pypackage',
+    author_email='krishna.balam@gmail.com',
+    url='https://github.com/kkrbalam/cookiecutter-pypackage.git',
     keywords=['cookiecutter', 'template', 'package', ],
     python_requires='>=3.6',
     classifiers=[
